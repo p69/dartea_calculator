@@ -1,8 +1,3 @@
 # dartea_calculator
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Simple calcualtor app written using [Flutter](https://flutter.io/) and [Dartea](https://github.com/p69/dartea).
